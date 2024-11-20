@@ -1,9 +1,11 @@
 # GUI-Calculator
 
 Overview
+
 This simple GUI calculator takes input from the user and performs specified Arithmetic operations and display the result.
 
 Built With
+
 This is a simple GUI calculator made with Python 3.8(tkinter)
 
 Screenshots
